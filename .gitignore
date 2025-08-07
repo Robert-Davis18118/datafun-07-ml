@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .venv/
 .vscode/
 __pycache__/
 .ipynb_checkpoints/
+=======
+.venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+>>>>>>> 60b94456 (Add time series regression example for CC7.2)
